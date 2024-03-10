@@ -35,7 +35,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>Gana1984</username>
 						<password>8328271978@Gana</password>
-						<applicationName>sujal_ganesh-api</applicationName>
+						<applicationName>sujal</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
